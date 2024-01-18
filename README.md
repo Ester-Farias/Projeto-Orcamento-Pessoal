@@ -2,8 +2,8 @@
 ![GifOrçamentoPessoal](https://user-images.githubusercontent.com/103768076/177720489-b0f70fea-190e-4535-af8a-04c0a10ef198.gif)
 
 <h1 align="center">
-<p>Your old game here!<br> 
-Seu jogo velho aqui!</p>
+<p>Organize your expenses with us!<br> 
+Organize suas despesas com a gente!</p>
 </h1>
 <h3 align="center"><a href="https://prismatic-sunburst-ca97d5.netlify.app/projeto%20mata%20mosquito/inicio.html">See the project here!<br>
 Veja o projeto aqui!</a></h3>
@@ -12,9 +12,9 @@ Veja o projeto aqui!</a></h3>
 <br>
 
 ## 📸 About
-A simple project developed with javascript, html and css to learn the simple functionalities of JS and how to combine it with html.
+Developed with Javascript, HTML and CSS, the project aims to inform the user to enter the data they wish to save, thus storing these variables and returning them in a table, showing within an organization what the user spent, the date, the type of expense and the description along with the amount.
 
-Um projeto simples desenvolvido com javascript, html e css para aprender as fucionalidades simples do JS e como combinar ele com html.
+Desenvolvido com Javascript, html e css, o projeto tem o intuido de informar ao usuario que insira seus dados que este deseja guardar, armazenando assim essas variaveis e os retornando em uma tabela, mostrando dentro de uma organização o que usuario gastou, a data, o tipo de gasto e a descrição juntamente com a quantidade.
 
 <br> 
 
