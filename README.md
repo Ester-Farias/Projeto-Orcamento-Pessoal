@@ -5,7 +5,7 @@
 <p>Organize your expenses with us!<br> 
 Organize suas despesas com a gente!</p>
 </h1>
-<h3 align="center"><a href="https://prismatic-sunburst-ca97d5.netlify.app/projeto%20mata%20mosquito/inicio.html">See the project here!<br>
+<h3 align="center"><a href="https://deluxe-chaja-942ca4.netlify.app/projeto%20or%C3%A7amento%20pessoal/">See the project here!<br>
 Veja o projeto aqui!</a></h3>
 <hr>
 
